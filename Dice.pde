@@ -41,7 +41,7 @@ void setup()
       void show()
       {
         fill(255);
-        square(myX,myY,30);    
+        rect(myX,myY,30,30);    
         fill(0); 
        
       if(roll == 1){
